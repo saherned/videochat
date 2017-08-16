@@ -1,0 +1,17 @@
+{
+  "name": "PeerServer",
+  "version": "0.0.1",
+  "description": "A simple chat client using peerjs",
+  "main": "app.js",
+  "author": "Saher",
+  "private": true,
+  "license": "BSD",
+  "dependencies": {
+  "express": "^4.15.4",
+  "peer": "^0.2.8",
+   "log" : "*"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
